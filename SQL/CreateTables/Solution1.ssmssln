@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 20.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "CreateDataBase", "..\CreateDataBase\CreateDataBase.ssmssqlproj", "{015ABC3A-C322-46CA-8431-CF5A46AB7648}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "CreateTables", "CreateTables.ssmssqlproj", "{A1E40E49-66CD-4817-8243-3EA50638605C}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "CreateScheduleGrades", "..\..\CreateScheduleGrades\CreateScheduleGrades.ssmssqlproj", "{B5E2B3EC-B280-44E2-AC3E-AF6ADF6A9BD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9958252D-C00C-4A64-B60B-3025E13B57F1}.Default|Default.ActiveCfg = Default
+		{015ABC3A-C322-46CA-8431-CF5A46AB7648}.Default|Default.ActiveCfg = Default
+		{A1E40E49-66CD-4817-8243-3EA50638605C}.Default|Default.ActiveCfg = Default
+		{B5E2B3EC-B280-44E2-AC3E-AF6ADF6A9BD8}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EEC0F1E-3EC7-4480-96C1-ECE775134169}
+	EndGlobalSection
+EndGlobal

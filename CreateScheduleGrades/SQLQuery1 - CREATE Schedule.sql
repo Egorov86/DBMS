@@ -31,7 +31,7 @@ CREATE TABLE Grades
 
 );
 
-CREATE TABLE Exam
+CREATE TABLE Exams
 (
     student       INT,
 	lesson        INT,
