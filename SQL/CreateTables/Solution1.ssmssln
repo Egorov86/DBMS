@@ -9,15 +9,24 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "CreateTables", "CreateTable
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "CreateScheduleGrades", "..\..\CreateScheduleGrades\CreateScheduleGrades.ssmssqlproj", "{B5E2B3EC-B280-44E2-AC3E-AF6ADF6A9BD8}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DML", "..\DML\DML.ssmssqlproj", "{EF3C7C25-4F56-462C-A8E5-659C76D2E9AC}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "TeacherAndDisciplines", "..\TeacherAndDisciplines\TeacherAndDisciplines.ssmssqlproj", "{D6FA508A-418F-4DA7-8D1F-45F4C7BE44FA}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Schedule", "Schedule\Schedule.ssmssqlproj", "{06F66B0E-4B2C-4B44-AD0F-BEE3D6C6DE29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9958252D-C00C-4A64-B60B-3025E13B57F1}.Default|Default.ActiveCfg = Default
+		{8A37A1F4-756D-4393-930E-4AC5EEB6099A}.Default|Default.ActiveCfg = Default
 		{015ABC3A-C322-46CA-8431-CF5A46AB7648}.Default|Default.ActiveCfg = Default
 		{A1E40E49-66CD-4817-8243-3EA50638605C}.Default|Default.ActiveCfg = Default
 		{B5E2B3EC-B280-44E2-AC3E-AF6ADF6A9BD8}.Default|Default.ActiveCfg = Default
+		{EF3C7C25-4F56-462C-A8E5-659C76D2E9AC}.Default|Default.ActiveCfg = Default
+		{D6FA508A-418F-4DA7-8D1F-45F4C7BE44FA}.Default|Default.ActiveCfg = Default
+		{06F66B0E-4B2C-4B44-AD0F-BEE3D6C6DE29}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
