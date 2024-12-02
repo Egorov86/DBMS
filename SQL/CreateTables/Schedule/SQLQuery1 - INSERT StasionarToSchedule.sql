@@ -59,3 +59,5 @@ BEGIN
 
 
 END
+
+EXEC sp_ScheduleForGroup 'PV_318', '%MS SQL Server';
