@@ -14,6 +14,7 @@ FROM	Schedule, Groups, Disciplines, Teachers
 WHERE   [group]             = group_id
 AND discipline    =  discipline_id
 AND teacher       =  teacher_id
+AND [date]        =  '2024-10-25'
 ;
 
-EXEC sp_ScheduleForGroup 'PV_318', '%MS SQL Server';
+--EXEC sp_ScheduleForGroup 'PV_318', '%MS SQL Server';

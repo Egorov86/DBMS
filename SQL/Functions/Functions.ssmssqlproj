@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
-<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="CreateTables">
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Functions">
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
         <ConnectionNode Name="DESKTOP-3AN1TNE\SQLEXPRESS:DESKTOP-3AN1TNE\Пользователь">
-          <Created>2024-11-22T18:54:31.2698706+03:00</Created>
+          <Created>2024-12-04T19:40:43.5567858+03:00</Created>
           <Type>SQL</Type>
           <Server>DESKTOP-3AN1TNE\SQLEXPRESS</Server>
           <UserName />
           <Authentication>Windows Authentication</Authentication>
-          <InitialDB>master</InitialDB>
+          <InitialDB />
           <LoginTimeout>30</LoginTimeout>
           <TrustServerCertificate>True</TrustServerCertificate>
           <HostNameInServerCertificate />
@@ -22,47 +22,53 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="SQLQuery1 - CREATE Student brench.sql">
+        <FileNode Name="SQLQuery0 - CheckFunctions.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-3AN1TNE\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-3AN1TNE\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery1 - CREATE Student brench.sql</FullPath>
+          <FullPath>SQLQuery0 - CheckFunctions.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery1.sql">
+        <FileNode Name="SQLQuery0 - CheckHolidays.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-3AN1TNE\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-3AN1TNE\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery1.sql</FullPath>
+          <FullPath>SQLQuery0 - CheckHolidays.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery2 - CREATE Teachers.sql">
+        <FileNode Name="SQLQuery1 - CountLessonsForGroup.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-3AN1TNE\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-3AN1TNE\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery2 - CREATE Teachers.sql</FullPath>
+          <FullPath>SQLQuery1 - CountLessonsForGroup.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery3  - CREATE Disciplines.sql">
+        <FileNode Name="SQLQuery8 - GetLastMonOfApril.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-3AN1TNE\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-3AN1TNE\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery3  - CREATE Disciplines.sql</FullPath>
+          <FullPath>SQLQuery8 - GetLastMonOfApril.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery4 - Relation to Disciplines.sql">
+        <FileNode Name="SQLQuery8 - GetLastMonOfJuly.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-3AN1TNE\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-3AN1TNE\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery4 - Relation to Disciplines.sql</FullPath>
+          <FullPath>SQLQuery8 - GetLastMonOfJuly.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery7 - CREATE TableHolidays.sql">
+        <FileNode Name="SQLQuery8 - GetLastMonOfYear.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-3AN1TNE\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-3AN1TNE\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery7 - CREATE TableHolidays.sql</FullPath>
+          <FullPath>SQLQuery8 - GetLastMonOfYear.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery8 - CREATE DaysOFF.sql">
+        <FileNode Name="SQLQuery8 - INSERT .sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-3AN1TNE\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-3AN1TNE\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery8 - CREATE DaysOFF.sql</FullPath>
+          <FullPath>SQLQuery8 - INSERT .sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery8 - INSERT MayHolidaysPROCEDURE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-3AN1TNE\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-3AN1TNE\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery8 - INSERT MayHolidaysPROCEDURE.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>

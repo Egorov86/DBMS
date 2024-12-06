@@ -28,17 +28,41 @@
           <AssociatedConnUserName />
           <FullPath>SQLQuery0 - ALTER Groups.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery1.sql">
+        <FileNode Name="SQLQuery0 - Check Procedures.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-3AN1TNE\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-3AN1TNE\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery1.sql</FullPath>
+          <FullPath>SQLQuery0 - Check Procedures.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery2 - PV_318_MS_SQL_Server.sql">
+        <FileNode Name="SQLQuery1 - INSERT StasionarToSchedule.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-3AN1TNE\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-3AN1TNE\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery2 - PV_318_MS_SQL_Server.sql</FullPath>
+          <FullPath>SQLQuery1 - INSERT StasionarToSchedule.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery2 - SELECT FROM Schedule.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-3AN1TNE\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-3AN1TNE\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery2 - SELECT FROM Schedule.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery3 - CREATE PROCEDURE - Schedule For Group.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-3AN1TNE\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-3AN1TNE\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery3 - CREATE PROCEDURE - Schedule For Group.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery4 - DELETE FROM Schedule.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-3AN1TNE\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-3AN1TNE\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery4 - DELETE FROM Schedule.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery5 - StacionarToScheduleProcedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-3AN1TNE\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-3AN1TNE\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery5 - StacionarToScheduleProcedure.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
