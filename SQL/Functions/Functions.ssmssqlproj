@@ -58,17 +58,29 @@
           <AssociatedConnUserName />
           <FullPath>SQLQuery8 - GetLastMonOfYear.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery8 - INSERT .sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-3AN1TNE\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>DESKTOP-3AN1TNE\SQLEXPRESS</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>SQLQuery8 - INSERT .sql</FullPath>
-        </FileNode>
         <FileNode Name="SQLQuery8 - INSERT MayHolidaysPROCEDURE.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-3AN1TNE\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-3AN1TNE\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>SQLQuery8 - INSERT MayHolidaysPROCEDURE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery8 - INSERT NewHolidays.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-3AN1TNE\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-3AN1TNE\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery8 - INSERT NewHolidays.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery8 - SummerHolidaysPROCEDURE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-3AN1TNE\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-3AN1TNE\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery8 - SummerHolidaysPROCEDURE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery9 - SET DaysOFF.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-3AN1TNE\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-3AN1TNE\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery9 - SET DaysOFF.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>

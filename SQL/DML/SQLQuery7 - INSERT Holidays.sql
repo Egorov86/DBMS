@@ -1,4 +1,4 @@
-ddd - USE PD_318_DML;
+USE PD_318_DML;
 GO
 
 INSERT Holidays
